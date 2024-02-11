@@ -4,4 +4,5 @@
 [![GitHub license](https://img.shields.io/github/license/gamma-sigma-beep/PartRainbow?logo=apache)](LICENSE.txt)
 # PartRainbow
 
-i'm too lazy to add documentation 😴
+> [!NOTE]
+> This Repo's Documentation is still WIP. check back later.
