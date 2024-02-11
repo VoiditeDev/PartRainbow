@@ -6,3 +6,4 @@
 
 > [!NOTE]
 > This Repo's Documentation is still WIP. check back later.
+> The module code is NOT taken from @max96git's SocialRainbow Module as I am the creator of the module
