@@ -7,3 +7,6 @@
 > [!NOTE]
 > This Repo's Documentation is still WIP. check back later.
 > The module code is NOT taken from @max96git's SocialRainbow Module as I am the creator of the module
+
+> [!WARNING]
+> This is not the final version of this repo, that means new files may be added, changed or modified.
